@@ -9,3 +9,7 @@ func main() {
 func test() {
 
 }
+
+func test3() {
+
+}
