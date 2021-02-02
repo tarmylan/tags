@@ -13,3 +13,7 @@ func test() {
 func test3() {
 
 }
+
+func test4() {
+
+}
