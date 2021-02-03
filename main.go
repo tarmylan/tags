@@ -21,3 +21,7 @@ func testmaster() {
 func testb4() {
 
 }
+
+func testb44() {
+
+}
