@@ -13,3 +13,7 @@ func test() {
 func test2() {
 
 }
+
+func testmaster() {
+
+}
