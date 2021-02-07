@@ -17,3 +17,6 @@ func test2() {
 func testmaster() {
 
 }
+
+func master1() {
+}
